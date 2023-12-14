@@ -24,7 +24,7 @@ bot.start((ctx) =>
 
 bot.help((ctx) =>
     ctx.reply(
-        "Please Send me a Github Repo URL like(https://github.com/owner/repo) to Start or use @githubrepo_download_bot to search for repositories"
+        "Please Send me a Github Repo URL like(https://github.com/owner/repo) to Start searching for repositories bot by @the_developer01"
     )
 );
 
